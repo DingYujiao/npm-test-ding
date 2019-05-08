@@ -7,5 +7,6 @@
     "test": "test"
   },
   "author": "ding",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/DingYujiao/npm-test-ding.git"
 }
